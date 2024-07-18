@@ -1,7 +1,7 @@
 # Hello, I'm Tate!
 <a href="https://linkedin.com/in/tategreiner"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Network Operations Center (NOC) Technician who has a passion for IT security, and a dedication to solving complex problems.
 
 ## Objective
 
@@ -39,7 +39,6 @@ My journey in IT and Cybersecurity has led me to a passion for learning and grow
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
