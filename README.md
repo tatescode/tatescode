@@ -13,6 +13,7 @@ My journey in IT and Cybersecurity has led me to a passion for learning and grow
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Threat Hunting | <a href="https://google.com">Threat Hunting Cheatsheet</a>|
 
 ## Tools
 
