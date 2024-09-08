@@ -11,9 +11,12 @@ My journey in IT and Cybersecurity has led me to a passion for learning and grow
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Network Threat Hunting | <a href="https://github.com/tatesgithub/ThreatHunting/blob/main/Suricata">Threat Hunting</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/threathunting">Threat Hunting Documentation</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/Wireshark">Detection Lab</a>|
+| Threat Hunting | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/threathunting">Threat Hunting Documentation</a>|
+| Cyber Threat Intel | <a href="https://github.com/tatescode/opencti">OpenCTI</a>|
+| Email Analysis | <a href="https://github.com/tatescode/email-header-analyzer">email-header-analyzer</a>|
+| Scripting | <a href="https://github.com/tatescode/bash-scripts"> Scripts Repository</a>|
 
 ## Tools
 
@@ -45,4 +48,5 @@ My journey in IT and Cybersecurity has led me to a passion for learning and grow
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Network Forensics
+- Script Development
