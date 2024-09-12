@@ -1,6 +1,6 @@
 # Hello, I'm Tate!
 
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/OVF.png" width="300" />
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/OVF.png" width="300" /> ![CDSA](https://raw.githubusercontent.com/tatescode/tatescode.github.io/main/images/HTB_CDSA.png)
 
 ## Objective
 
