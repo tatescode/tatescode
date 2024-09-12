@@ -1,10 +1,10 @@
 # Hello, I'm Tate!
 
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/OVF.png" width="300" /> ![CDSA](https://raw.githubusercontent.com/tatescode/tatescode.github.io/main/images/HTB_CDSA.png)
-
-## Objective
-
-My journey in IT and Cybersecurity has led me to a passion for learning and growing inside the field of Cybersecurity, and I am eager to join the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+<p align="left">
+  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/OVF.png" width="330" alt="OVF Badge" />
+  <img src="https://raw.githubusercontent.com/tatescode/tatescode.github.io/main/images/HTB_CDSA.png" width="110" alt="CDSA Badge" />
+  <img src="https://raw.githubusercontent.com/tatescode/tatescode.github.io/main/images/Security+.png" width="116" alt="Security+ Badge" />
+</p>
 
 ## Skills
 
