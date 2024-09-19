@@ -11,11 +11,11 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/threathunting">Threat Hunting Documentation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/Wireshark">Detection Lab</a>|
-| Threat Hunting | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/threathunting">Threat Hunting Documentation</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/MalwareTrafficAnalysis">Traffic Analysis</a>|
+| Threat Hunting | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/MalwareTrafficAnalysis">Threat Hunting Documentation</a>|
 | Cyber Threat Intel | <a href="https://github.com/tatescode/opencti">OpenCTI</a>|
 | Email Analysis | <a href="https://github.com/tatescode/email-header-analyzer">email-header-analyzer</a>|
-| Scripting | <a href="https://github.com/tatescode/bash-scripts"> Scripts Repository</a>|
+| Python | <a href="https://github.com/tatescode/netoverview">A Python-based tool meant for rapidly gaining high-level statistical insights into the network activities of a PCAP file. </a>|
 
 ## Tools
 
