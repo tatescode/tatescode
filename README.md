@@ -17,7 +17,7 @@
 
 | Skill                                           | Associated Project                                                                                                 |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/threathunting">Threat Hunting Documentation</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/ThreatHuntingLab">SIEM Threat Hunting Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/MalwareTrafficAnalysis">Traffic Analysis</a>   |
 | Digital Forensics                               | <a href="https://github.com/tatescode/tatescode.github.io/tree/main/Digital%20Forensics">Digital Forensics</a>     |
 | Python                                          | <a href="https://github.com/tatescode/netoverview">NetOverview - A python-based PCAP analysis tool</a>             |
