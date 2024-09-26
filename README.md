@@ -8,6 +8,10 @@
   Documenting my progress in the fields of networking and cybersecurity serves as both a personal log and a professional portfolio, showcasing my growing expertise in the field.
 </p>
 
+## Featured Projects
+
+### ❗<a href="https://github.com/tatescode/tatescode.github.io/tree/main/ThreatHuntingLab">SIEM Threat Hunting Lab</a>❗
+
 ----
 ## Skills
 
