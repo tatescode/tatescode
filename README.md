@@ -10,11 +10,11 @@ Security Analyst focused on detection engineering, threat hunting, and malware a
 ## Featured Projects
 
 ### Detection Engineering
-- **[Sigma Rules Collection](link)** - Custom detection rules for emerging threats
+- **[Sigma Rules Collection ~ Under Construction! ~](link)** - Custom detection rules for emerging threats
   - APT detection logic
   - Living-off-the-land techniques
   - Novel attack patterns
-- **[YARA Rules Repository](link)** - Malware detection signatures
+- **[YARA Rules Repository ~ Under Construction! ~](link)** - Malware detection signatures
   - Ransomware family detection
   - Command & control indicators
   - Packed malware identification
@@ -22,16 +22,10 @@ Security Analyst focused on detection engineering, threat hunting, and malware a
 ### Tooling
 - **[NetOverview](https://github.com/tatescode/netoverview)** - PCAP Analysis Tool
   - Protocol anomaly detection
-  - Automated IOC extraction
   - Traffic pattern analysis
-  - VirusTotal integration
-- **[LogParser](link)** - Security Log Analysis Tool
-  - Multi-format log support
-  - Threat indicator extraction
-  - Timeline reconstruction
 
 ### Malware Analysis
-- **[Malware Analysis Reports](link)**
+- **[Malware Analysis Reports ~ Under Construction! ~](link)**
   - Technical deep-dives into malware behavior
   - Network traffic analysis
   - IOC extraction and sharing
