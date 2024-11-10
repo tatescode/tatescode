@@ -5,20 +5,10 @@
 
 ## About Me
 
-Security Analyst focused on detection engineering, threat hunting, and malware analysis. Currently revising my Github account to reflect these focuses. Most repos will be incomplete until I have finished transferring everything.
+Entry-level Security Analyst focused on detection engineering, threat hunting, and malware analysis.
 
-## Featured Projects
-
-### Detection Engineering
-- **[Sigma Rules Collection ~ Under Construction! ~](link)** - Custom detection rules for emerging threats
-  - APT detection logic
-  - Living-off-the-land techniques
-  - Novel attack patterns
-- **[YARA Rules Repository ~ Under Construction! ~](link)** - Malware detection signatures
-  - Ransomware family detection
-  - Command & control indicators
-  - Packed malware identification
- 
+## Featured
+These projects, just like me, are a work-in-progress
 ### Tooling
 - **[NetOverview](https://github.com/tatescode/netoverview)** - PCAP Analysis Tool
   - Protocol anomaly detection
