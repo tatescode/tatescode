@@ -5,7 +5,7 @@
 
 ## About Me
 
-Entry-level Security Analyst focused on detection engineering, threat hunting, and malware analysis.
+Security Enthusiast focused on detection engineering, threat hunting, and malware analysis.
 
 ## Featured
 These projects, just like me, are a work-in-progress
