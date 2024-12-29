@@ -11,9 +11,8 @@ I am a computer security specialist. In my spare time I like to complete CTF's, 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Detection Documentation Framework](https://github.com/tatescode/docs-helper) | Automated malware analysis reporting | 🟡 In Progress |
 | [PCAP Analyzer](https://github.com/tatescode/netoverview) | Network traffic analysis automation | 🟢 Active |
 | [Image Reconstructor](https://github.com/tatescode/tatescode.github.io/tree/main/Scripting) | PNG file reconstruction utility | ✅ Complete |
-| [Analysis Templates](link) | Standardized analysis frameworks | 📝 Documentation |
+
 
 
