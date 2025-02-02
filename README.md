@@ -9,11 +9,10 @@ I am a computer security specialist. In my spare time I like to complete CTF's, 
 
 ## 🗂️ Projects & Resources
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [PCAP Analyzer](https://github.com/tatescode/netoverview) | Network traffic analysis automation | 🟢 Active |
-| [Image Reconstructor](https://github.com/tatescode/tatescode.github.io/tree/main/Scripting) | PNG file reconstruction utility | ✅ Complete |
-| [Scripts](https://github.com/tatescode/tatescode.github.io/tree/main/Scripting) | Systems Administration and Automation Scripts in BASH, PowerShell, and Python | 🟢 Active |
-| [DNS_Monitor](https://github.com/tatescode/Scripts) | Monitors DNS Requests/Replys and can match against known bad domains | 🟢 Active |
+| Project | Description | Category | Status |
+|---------|-------------|--------|----------|
+| [PCAP Analyzer](https://github.com/tatescode/netoverview) | Network traffic analysis automation | Malware Analysis | 🟢 Active
+| [Image Reconstructor](https://github.com/tatescode/tatescode.github.io/tree/main/Scripting) | PNG file reconstruction utility | for fun | ✅ Complete |
+| [windows_api_monitor](https://github.com/tatescode/Scripts) | Monitors and logs Windows API calls during execution | Malware Analysis | 🟢 New |
 
 
