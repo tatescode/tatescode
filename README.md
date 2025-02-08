@@ -13,6 +13,6 @@ I am a computer security specialist. In my spare time I like to complete CTF's, 
 |---------|-------------|--------|----------|
 | [PCAP Analyzer](https://github.com/tatescode/netoverview) | Network traffic analysis automation | Malware Analysis | 🟢 Active
 | [Image Reconstructor](https://github.com/tatescode/tatescode.github.io/tree/main/Scripting) | PNG file reconstruction utility | for fun | ✅ Complete |
-| [windows_api_monitor](https://github.com/tatescode/api-monitor/) | Monitors and logs Windows API calls during execution | Malware Analysis | 🟢 New |
+| [windows_api_monitor](https://github.com/tatescode/tatescode/tree/main/api-monitor) | Monitors and logs Windows API calls during execution | Malware Analysis | 🟢 New |
 
 
