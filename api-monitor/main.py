@@ -112,6 +112,10 @@ class NetworkMonitor(ProcessMonitor):
 def main(list, kill, details, connections):
     "SIMPLE PROCESS MONITOR"
     
+    if not any([list, kill, details, connections]):
+        print("Error: No options provided. Use --help to see available options.")
+        return
+
     process_manager = ProcessManager()
     process_info = ProcessInfo()
     network_monitor = NetworkMonitor()
