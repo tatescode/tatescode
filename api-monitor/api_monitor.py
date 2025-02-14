@@ -16,7 +16,7 @@ class APIMonitor(ProcessMonitor):
         """Monitor Process Creation APIs"""
         try:
             if self.get_process(pid):
-                print(f"Setting up API hooks for PID:{pid}:"
+                print(f"Setting up API hooks for PID:{pid}:")
         except Exception as e:
                 print(f"Error setting up hooks: {e}")
 
@@ -24,8 +24,7 @@ class APIMonitor(ProcessMonitor):
         """Monitor common process injection techniques"""
         try:
             if self.get_process(pid):
-                pass
-
+                self.hook_create_process(pid)
         except Exception as e:
             print(f"Error monitoring process injection: {e}")
         
@@ -33,5 +32,28 @@ class APIMonitor(ProcessMonitor):
         """Hook the CreateProcessW API call"""
         try:
             if self.get_process(pid):
+                CreateProcessW_Proto = WINFUNCTYPE(
+                    BOOL,     # Return Type
+                    LPCWSTR,  # lpApplicationName
+                    LPWSTR,   # lpCommandLine
+                    LPSECURITY_ATTRIBUTES,  # lpProcessAttributes
+                    LPSECURITY_ATTRIBUTES,  # lpThreadAttributes
+                    BOOL,    # bInheritHandles
+                    DWORD,   # dwCreationFlags
+                    LPVOID,  # lpEnvironment
+                    LPCWSTR, # lpCurrentDirectory
+                    LPSTARTUPINFOW,  # lpStartupInfo
+                    LPPROCESS_INFORMATION  # lpProcessInformation
+                )
 
+                kernel32 = windll.kernel32
+                create_process_addr = kernal32.GetProcAddress(
+                    kernal32._handle,
+                    "CreateProcessW"
+                )
 
+                print(f"[+] Found CreateProcessW at address: {hex(create_process_addr)}")
+                self.hooks["CreateProcessW"] = create_process_addr
+
+        except Exception as e:
+            print(f"Error hooking CreateProcessW: {e}")
