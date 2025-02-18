@@ -62,15 +62,13 @@ Focused on advancing cybersecurity through malware analysis, CTF challenges, and
 </td>
 
 <td width="50%">
-<h3 align="center">Project Status</h3>
+<h3 align="center">Contributions</h3>
 <div align="center">
 <br>
 <p>
 
-![Active Projects](https://img.shields.io/badge/Active_Projects-2-success?style=for-the-badge)
-![Completed Projects](https://img.shields.io/badge/Completed-1-blue?style=for-the-badge)
-![Total Commits](https://img.shields.io/badge/Total_Commits-200+-blueviolet?style=for-the-badge)
 ![Snake animation](https://github.com/tatescode/tatescode/blob/output/github-contribution-grid-snake-dark.svg)
+![Last Updated](https://img.shields.io/github/last-commit/tatescode/tatescode?color=9745F5&label=Last%20Updated&style=for-the-badge)
 
 </p>
 </div>
