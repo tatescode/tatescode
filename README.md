@@ -22,9 +22,9 @@ Focused on advancing cybersecurity through malware analysis, CTF challenges, and
 <td width="50%">
 <h3 align="center">PCAP Analyzer</h3>
 <div align="center">
-<a href="https://github.com/tatescode/netoverview" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" alt="Network Analysis"/></a>
+<a href="https://github.com/tatescode/pcapprowler" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" alt="Network Analysis"/></a>
 <p>
-<a href="https://github.com/tatescode/netoverview" target="_blank">
+<a href="https://github.com/tatescode/pcapprowler" target="_blank">
 <img src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=github&logoColor=white">
 </a>
 </p>
