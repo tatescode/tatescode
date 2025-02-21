@@ -5,7 +5,9 @@
 </div>
 Focused on advancing cybersecurity through malware analysis, CTF challenges, and developing automation tools. I leverage my expertise to create practical security solutions and share knowledge with the community.
 <div align="center">
-  
+<p>  
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tategreiner)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-purple?&style=for-the-badge&logo=github&logoColor=white)](https://tatescode.github.io)
 </div>
