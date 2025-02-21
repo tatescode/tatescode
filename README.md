@@ -1,17 +1,13 @@
-# Security Professional
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&random=false&width=435&lines=Computer+Security+Specialist;Task+Automation+and+Malware+Analysis)](https://git.io/typing-svg)
-</div>
+
 Focused on advancing cybersecurity through malware analysis, CTF challenges, and developing automation tools. I leverage my expertise to create practical security solutions and share knowledge with the community.
-<div align="center">
-<p>  
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tategreiner)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-purple?&style=for-the-badge&logo=github&logoColor=white)](https://tatescode.github.io)
 </div>
-
 ## Featured Projects
 
 <table>
