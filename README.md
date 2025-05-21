@@ -8,6 +8,7 @@ Focused on advancing cybersecurity through malware analysis, CTF challenges, and
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tategreiner)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-purple?&style=for-the-badge&logo=github&logoColor=white)](https://tatescode.github.io)
 </div>
+
 ## Featured Projects
 
 <table>
