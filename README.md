@@ -5,7 +5,7 @@
 
 # Tate Greiner
 
-Security researcher with a focus on static and dynamic malware analysis, Windows internals, and building tools that make analysis faster. I'm interested in understanding how malware actually works — not just detecting it.
+Focused on getting better at programming and reverse engineering right now. Check out some of my projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tategreiner)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=github&logoColor=white)](https://tatescode.github.io)
@@ -39,10 +39,3 @@ Security researcher with a focus on static and dynamic malware analysis, Windows
 
 </div>
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatescode&show_icons=true&theme=dark&hide_border=true&title_color=9745F5&icon_color=9745F5&hide=stars)
-
-</div>
