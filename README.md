@@ -11,7 +11,7 @@
 
 ---
 
-Security analyst focused on detection engineering and malware analysis. I build tooling that makes detections easier to ship, and I take malware apart to understand how it works.
+Security analyst focused on detection engineering and malware analysis.
 
 **Currently**
 
