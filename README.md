@@ -1,41 +1,38 @@
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9745F5&random=false&width=435&lines=Reverse+Engineering+%2F+Malware+Analysis;Windows+Internals+%2F+Network+Forensics)](https://git.io/typing-svg)
 
 # Tate Greiner
 
-Focused on getting better at programming and reverse engineering right now. Check out some of my projects.
+**Detection Engineering · Malware Analysis · Reverse Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tategreiner)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=github&logoColor=white)](https://tatescode.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tategreiner-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tategreiner)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tatescode.github.io-9745F5?style=flat-square&logo=githubpages&logoColor=white)](https://tatescode.github.io)
 
 </div>
 
 ---
 
-## Projects
+Security analyst focused on detection engineering and malware analysis. I build tooling that makes detections easier to ship, and I take malware apart to understand how it works.
 
-*Coming soon.*
+**Currently**
 
----
+- Building [**sigma2leql**](https://github.com/tatescode/sigma2leql) to bring community Sigma rules to Rapid7 InsightIDR
+- Reverse engineering Windows malware with IDA Pro and Ghidra
+- Going deeper on C++, x86 assembly, and Windows internals
 
-## Skills
+## Featured work
 
-<div align="center">
+| Project | Description |
+| :-- | :-- |
+| [**sigma2leql**](https://github.com/tatescode/sigma2leql)<br><sub>Python</sub> | Converts Sigma detection rules into Rapid7 InsightIDR LEQL queries. Roughly doubles SigmaHQ rule coverage over the upstream backend, fixes queries it silently gets wrong, and fails loudly on fields InsightIDR doesn't have. |
+| [**Reports**](https://github.com/tatescode/Reports)<br><sub>Malware analysis</sub> | Reverse engineering write-ups. Latest: a trojanized, code-signed PDF viewer acting as a loader and browser-data stealer with a JSON-based C2 protocol. |
+| [**DFIR write-ups**](https://tatescode.github.io)<br><sub>Forensics</sub> | Memory, disk, and network forensics investigations, malware traffic analysis, and SANS Holiday Hack Challenge solutions. |
 
-**Languages**
+## Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_asm-555?style=for-the-badge&logoColor=white)
-
-**Tooling**
-
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | Python · C++ · x86 Assembly · PowerShell · Bash |
+| **Reverse engineering** | IDA Pro · Ghidra |
+| **Detection** | Sigma · pySigma · Rapid7 InsightIDR (LEQL) |
+| **Forensics** | Volatility · KAPE · EZ Tools · Wireshark · NetworkMiner |
+| **Platforms** | Windows internals · Linux |
