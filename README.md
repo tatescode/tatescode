@@ -16,8 +16,8 @@ Security analyst focused on detection engineering and malware analysis.
 **Currently**
 
 - Building [**sigma2leql**](https://github.com/tatescode/sigma2leql) to bring community Sigma rules to Rapid7 InsightIDR
-- Reverse engineering Windows malware with IDA Pro and Ghidra
-- Going deeper on C++, x86 assembly, and Windows internals
+- Reverse engineering Windows malware with IDA Free, Hopper, and Ghidra
+- Going deeper on C++, x86 assembly, Rust, and Windows internals
 
 ## Featured work
 
