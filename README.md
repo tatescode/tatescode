@@ -19,7 +19,7 @@ Security analyst focused on detection engineering and malware analysis.
 | Project | Description |
 | :-- | :-- |
 | [**sigma2leql**](https://github.com/tatescode/sigma2leql)<br><sub>Python</sub> | Converts Sigma detection rules into Rapid7 InsightIDR LEQL queries. Roughly doubles SigmaHQ rule coverage over the upstream backend, fixes queries it silently gets wrong, and fails loudly on fields InsightIDR doesn't have. |
-| [**Reports**](https://github.com/tatescode/Reports)<br><sub>Malware analysis</sub> | Reverse engineering write-ups. Latest: a trojanized, code-signed PDF viewer acting as a loader and browser-data stealer with a JSON-based C2 protocol. |
+| [**Reports**](https://github.com/tatescode/Reports)<br><sub>Malware analysis</sub> | Reverse engineering write-ups. |
 | [**DFIR write-ups**](https://tatescode.github.io)<br><sub>Forensics</sub> | Memory, disk, and network forensics investigations, malware traffic analysis, and SANS Holiday Hack Challenge solutions. |
 
 ## Toolbox
