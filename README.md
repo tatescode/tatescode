@@ -19,6 +19,7 @@ Security analyst focused on detection engineering and malware analysis.
 | Project | Description |
 | :-- | :-- |
 | [**sigma2leql**](https://github.com/tatescode/sigma2leql)<br><sub>Python</sub> | Converts Sigma detection rules into Rapid7 InsightIDR LEQL queries. Roughly doubles SigmaHQ rule coverage over the upstream backend, fixes queries it silently gets wrong, and fails loudly on fields InsightIDR doesn't have. |
+| [**C Projects**](https://github.com/tatescode/C)<br><sub>C/C++</sub> | Personal Projects
 | [**Reports**](https://github.com/tatescode/Reports)<br><sub>Malware analysis</sub> | Reverse engineering write-ups. |
 | [**DFIR write-ups**](https://tatescode.github.io)<br><sub>Forensics</sub> | Memory, disk, and network forensics investigations, malware traffic analysis, and SANS Holiday Hack Challenge solutions. |
 
@@ -27,7 +28,7 @@ Security analyst focused on detection engineering and malware analysis.
 | Area | Tools |
 | :-- | :-- |
 | **Languages** | Python · C++ · x86 Assembly · PowerShell · Bash |
-| **Reverse engineering** | IDA Pro · Ghidra |
+| **Reverse engineering** | IDA  · Ghidra |
 | **Detection** | Sigma · pySigma · Rapid7 InsightIDR (LEQL) |
 | **Forensics** | Volatility · KAPE · EZ Tools · Wireshark · NetworkMiner |
 | **Platforms** | Windows internals · Linux |
